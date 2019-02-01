@@ -1,9 +1,9 @@
 {
     "packageDirectories": [
         {
-            "path": "withMetaFolder",
+            "path": "frefref",
             "default": true,
-            "package": "withMetaFolder",
+            "package": "frefref",
             "versionName": "ver 0.1",
             "versionNumber": "0.1.0.NEXT"
         }
@@ -12,6 +12,6 @@
     "sfdcLoginUrl": "https://login.salesforce.com",
     "sourceApiVersion": "44.0",
     "packageAliases": {
-        "withMetaFolder": "0Ho0b000000GmgCCAS"
+        "frefref": "0Ho2I000000KyjpSAC"
     }
 }
