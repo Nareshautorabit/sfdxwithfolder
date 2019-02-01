@@ -1,0 +1,17 @@
+{
+    "packageDirectories": [
+        {
+            "path": "WithData",
+            "default": true,
+            "package": "WithData",
+            "versionName": "ver 0.1",
+            "versionNumber": "0.1.0.NEXT"
+        }
+    ],
+    "namespace": "",
+    "sfdcLoginUrl": "https://login.salesforce.com",
+    "sourceApiVersion": "44.0",
+    "packageAliases": {
+        "WithData": "0Ho2I000000KyjkSAC"
+    }
+}
