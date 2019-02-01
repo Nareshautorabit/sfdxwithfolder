@@ -1,0 +1,17 @@
+{
+    "packageDirectories": [
+        {
+            "path": "withMetaFolder",
+            "default": true,
+            "package": "withMetaFolder",
+            "versionName": "ver 0.1",
+            "versionNumber": "0.1.0.NEXT"
+        }
+    ],
+    "namespace": "",
+    "sfdcLoginUrl": "https://login.salesforce.com",
+    "sourceApiVersion": "44.0",
+    "packageAliases": {
+        "withMetaFolder": "0Ho0b000000GmgCCAS"
+    }
+}
